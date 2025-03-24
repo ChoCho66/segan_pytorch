@@ -1,3 +1,7 @@
+.segan_pytorch
+data_tmp
+test_wav
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

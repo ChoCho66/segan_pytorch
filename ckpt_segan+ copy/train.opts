@@ -1,10 +1,10 @@
 {
-  "save_path": "ckpt_segan+",
+  "save_path": "ckpt_segan+\\",
   "d_pretrained_ckpt": null,
   "g_pretrained_ckpt": null,
   "cache_dir": "data_tmp",
-  "clean_trainset": "/disk4/chocho/_datas/VoiceBank+DEMAND+16k/wav_clean",
-  "noisy_trainset": "/disk4/chocho/_datas/VoiceBank+DEMAND+16k/wav_noisy",
+  "clean_trainset": "data_veu4/expanded_segan1_additive/clean_trainset\\",
+  "noisy_trainset": "data_veu4/expanded_segan1_additive/noisy_trainset\\",
   "clean_valset": null,
   "noisy_valset": null,
   "h5_data_root": null,
